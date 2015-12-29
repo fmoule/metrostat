@@ -1,0 +1,12 @@
+
+
+### Fichiers de compilation
+*.class
+*.jar
+*.ear
+target/
+
+### Fichiers Intellij
+*.iml
+*.ipr
+.idea/
